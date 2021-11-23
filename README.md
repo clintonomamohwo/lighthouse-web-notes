@@ -6,4 +6,4 @@ This repository contains all of the notes taken by [Ogheneruona Clinton Omamohwo
 
 # Table Of Content 
 * Week 1
-  *Day 1
+  * Day 1
